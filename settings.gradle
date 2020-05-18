@@ -1,3 +1,4 @@
 rootProject.name='BaseMvpArch'
 include ':app'
 include ':baseapp'
+include ':common-tool'
